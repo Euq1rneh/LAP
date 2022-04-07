@@ -1,0 +1,9 @@
+harmonicSum(14) = 3.2515623265623264
+containedQuantity("0409465005111201", "05") = 11
+Are all the values in array [5, -7, 3, 5, 10, -11, 14, 3] in the interval [-14 .. 14] ?
+    true
+The sandwich of array [1, 2, 6] with 10 and -10 is the array:
+    [1, 10, 2, -10, 6]
+The merge of array [1, 2, 6] with array [-11, -7, 3, 3, 5, 5, 10, 14] is the array: 
+    [-11, -7, 0, 1, 2, 3, 3, 5, 5, 10, 14]
+negativeLucasNumber(-14) = 843
